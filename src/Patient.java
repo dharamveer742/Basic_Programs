@@ -4,9 +4,10 @@ public class Patient {
     double Weight ;
     double BMI ;
 
+
     double ComputeBMi() {
-         BMI = Weight / (Height * Height);
-        return BMI ;
+        BMI = Weight / (Height * Height);
+        return BMI;
     }
 
     public static void main(String[] args) {
