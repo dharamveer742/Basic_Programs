@@ -1,3 +1,5 @@
+package Questions;
+
 public class Sum {
     int num1;
     int num2;
@@ -9,6 +11,6 @@ public class Sum {
         Sum ob = new Sum();
         ob.num1=Integer.parseInt(args[0]);
         ob.num2=Integer.parseInt(args[1]);
-        System.out.println("Sum of two numbers is "+ob.add());
+        System.out.println("BasicQuestions.Sum of two numbers is "+ob.add());
     }
 }

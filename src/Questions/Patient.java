@@ -1,3 +1,5 @@
+package Questions;
+
 public class Patient {
     String PatientName;
     double Height ;

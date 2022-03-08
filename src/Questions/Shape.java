@@ -1,9 +1,11 @@
+package Questions;
+
 public class Shape {
     public void Draw() {
-        System.out.println("Drawing Shape");
+        System.out.println("Drawing BasicQuestions.Shape");
     }
     public void Erase() {
-        System.out.println("Erasing Shape");
+        System.out.println("Erasing BasicQuestions.Shape");
     }
 
     public static void main(String[] args) {

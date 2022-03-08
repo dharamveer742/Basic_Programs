@@ -1,3 +1,5 @@
+package Questions;
+
 public class Students {
     String Name;
 
@@ -15,7 +17,7 @@ public class Students {
 }
 class StudentsMain{
     public static void main(String[] args) {
-        //Students ob = new Students();
+        //BasicQuestions.Students ob = new BasicQuestions.Students();
         Students ob1 = new Students("Aman");
         ob1.display();
     }

@@ -1,3 +1,5 @@
+package Questions;
+
 public class Student {
     String Name;
     double Percentage;

@@ -1,3 +1,5 @@
+package Questions;
+
 public class Percentage {
     String Gender ;
     int age ;

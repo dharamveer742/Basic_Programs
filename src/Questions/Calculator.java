@@ -1,3 +1,5 @@
+package Questions;
+
 public class Calculator {
      static double PowerInt(int num1,int num2){return Math.pow(num1,num2);}
      static double PowerDouble(double num1,double num2){
